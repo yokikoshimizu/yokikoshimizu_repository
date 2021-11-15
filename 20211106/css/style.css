@@ -36,3 +36,24 @@
 .wrapper{
     display: flex;
 }
+.big{
+    font-size: 30px;
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+}
+.box5{
+    width: 100px;
+    height: 100px;
+    background-color:blue;  
+}
+.box6{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+}
+.main{
+    display: flex;
+}
