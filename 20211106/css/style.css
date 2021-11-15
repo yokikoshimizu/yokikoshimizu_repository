@@ -143,3 +143,83 @@
 .main5{
     display: flex;
 }
+.big{
+}
+.box19{
+    width: 300px;
+    height: 30px;
+    background-color: lightblue;
+}
+.box20{
+    width: 300px;
+    height: 70px;
+    background-color: red;
+}
+.box21{
+    width: 200px;
+    height: 100px;
+    z-index: 1;
+    background-color: yellow;
+}
+.box22{
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    background-color: yellowgreen;
+}
+.main6{
+    display: flex;
+}
+.wrap{
+    position: relative;
+}
+.liteblue{
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    z-index: 3;
+    background-color: lightblue;
+    top: 120px;
+    left: 20px;
+}
+.liteblue2, .liteblue3, .liteblue4, .liteblue5, .liteblue6{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: lightblue;
+    z-index: 10;
+}
+.liteblue2{
+    background-color: lightblue;
+    top: 160px;
+    left: 20px;
+}
+.liteblue3{
+    background-color: lightblue;
+    top: 160px;
+    left: 55px;
+}
+.liteblue4{
+    background-color: lightblue;
+    top: 160px;
+    left: 90px;
+}
+.liteblue5{
+    background-color: lightblue;
+    top: 160px;
+    left: 125px;
+}
+.liteblue6{
+    background-color: lightblue;
+    top: 160px;
+    left: 160px;
+}
+.liteblue7{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    z-index: 3;
+    background-color: lightblue;
+    top: 115px;
+    left: 215px;
+}
