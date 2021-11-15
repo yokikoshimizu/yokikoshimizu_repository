@@ -118,3 +118,28 @@
 .contain{
     display: flex;
 }
+.big{
+}
+.box15{
+    width: 300px;
+    height: 30px;
+    background-color: blue;
+}
+.box16{
+    width: 230px;
+    height: 140px;
+    background-color: red;
+}
+.box17{
+    width: 70px;
+    height: 140px;
+    background-color: black;
+}
+.box18{
+    width: 300px;
+    height: 30px;
+    background-color: green;
+}
+.main5{
+    display: flex;
+}
