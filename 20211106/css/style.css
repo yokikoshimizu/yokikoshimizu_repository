@@ -172,6 +172,9 @@
 }
 .wrap{
     position: relative;
+    width: 300px;
+    height: 200px;
+    color: white;
 }
 .liteblue{
     position: absolute;
@@ -190,27 +193,22 @@
     z-index: 10;
 }
 .liteblue2{
-    background-color: lightblue;
     top: 160px;
     left: 20px;
 }
 .liteblue3{
-    background-color: lightblue;
     top: 160px;
     left: 55px;
 }
 .liteblue4{
-    background-color: lightblue;
     top: 160px;
     left: 90px;
 }
 .liteblue5{
-    background-color: lightblue;
     top: 160px;
     left: 125px;
 }
 .liteblue6{
-    background-color: lightblue;
     top: 160px;
     left: 160px;
 }
@@ -220,6 +218,6 @@
     height: 70px;
     z-index: 3;
     background-color: lightblue;
-    top: 115px;
-    left: 215px;
+    bottom: 15px;
+    right: 15px;
 }
